@@ -1,4 +1,4 @@
-./credentials.cfg
-./jupyterenv
-./sources
+credentials.cfg
+jupyterenv/*
+sources/*
 run-jupyter.sh
