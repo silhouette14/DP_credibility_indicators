@@ -1,4 +1,5 @@
 ./credentials.cfg
 ./jupyterenv
 ./sources
+.ipynb_checkpoints
 run-jupyter.sh
